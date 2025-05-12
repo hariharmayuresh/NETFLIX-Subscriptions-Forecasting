@@ -44,7 +44,6 @@ This project was independently conceptualized and built to sharpen my skills in 
 - Conducted time series diagnostics: stationarity, ACF, PACF, differencing  
 - Built and evaluated ARIMA model with optimized hyperparameters  
 - Predicted future subscription counts and visualized with overlaid graphs  
-- Shared the results on **LinkedIn** to highlight the real-world value of data forecasting  
 
 ---
 
@@ -61,16 +60,15 @@ This project was independently conceptualized and built to sharpen my skills in 
 
 ## 📁 Files Included
 
-- `netflix_subscriptions.csv` – Raw data of quarterly subscription counts  
-- `netflix_forecast.ipynb` – Jupyter notebook with full EDA, model building & predictions  
+- `netflix Subscriptions.csv` – Raw data of quarterly subscription counts  
+- `netflix subscription forecast.ipynb` – Jupyter notebook with full EDA, model building & predictions  
 - `README.md` – Documentation and explanation of project  
-- `plots/` – Visual outputs (growth rate, predictions, etc.)
 
 ---
 
 ## 🛠️ Tools & Tech Used
 
-- Python  
+- Python
 - Jupyter Notebook  
 - Pandas, NumPy – Data analysis and manipulation  
 - Plotly, Matplotlib – Visualizations  
@@ -90,23 +88,10 @@ This project was independently conceptualized and built to sharpen my skills in 
 
 ---
 
-## 🎥 Project Preview
-
-<h3 align="center">📊 Netflix Subscriptions Forecasting</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/posts/mayuresh-harihar_data-science-time-series-analysis-machinelearning-activity-7155634557462128640-bWiY/" target="_blank">
-    <img src="https://img.youtube.com/vi/lHt5LKJVODk/0.jpg" width="70%" alt="Click to View Project Summary on LinkedIn">
-  </a>
-</p>
-
----
-
 ## 🙌 Acknowledgments
 
 - Inspired by a time series forecasting article by **Aman Kharwal**  
 - Dataset sourced from a publicly available growth record of Netflix subscribers  
-- Shared on **LinkedIn** to inspire real-world learning and feedback  
 
 ---
 
