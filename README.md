@@ -1,3 +1,123 @@
+# 📈 Netflix Subscriptions Forecasting – Time Series Analysis
+
+![License](https://img.shields.io/badge/License-MIT-green)
+![Built With](https://img.shields.io/badge/Built%20with-Python%2C%20Plotly%2C%20ARIMA-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Time Series](https://img.shields.io/badge/Model-ARIMA-orange)
+
+---
+
+## 📌 Project Summary
+
+This project applies **Time Series Forecasting** to predict quarterly Netflix subscription growth using historical data. Using ARIMA and Python’s data stack, I modeled the future subscription trend to help simulate how platforms like Netflix plan for **subscriber growth, content strategy, and financial forecasting**. The project demonstrates how data-driven insights can enhance decision-making in the streaming industry.
+
+---
+
+## 💡 Why This Project?
+
+Forecasting subscriber growth is crucial for OTT platforms like Netflix to:
+- Plan production and marketing budgets
+- Anticipate server load and infrastructure scaling
+- Strategize content development and release
+- Ensure business continuity through accurate forecasting
+
+This project was independently conceptualized and built to sharpen my skills in **time series modeling, data visualization, and Python-based analytics**.
+
+---
+
+## 🚀 Quantified Project Achievements
+
+- 📊 Analyzed 10 years of quarterly Netflix data (2013–2023)  
+- 🧠 Built an ARIMA(1,1,1) model with statistically validated parameters (p, d, q)  
+- ⏱️ Achieved sub-second forecasting for next **5 quarters** with accurate results  
+- 🔍 Identified **non-seasonal trends** in subscriber growth using ACF/PACF and differencing  
+- 📈 Calculated and visualized **quarterly & yearly growth rates** with color-coded bars  
+- 🧮 Converted static growth data into a time-series format and made **5 future predictions**  
+- 📊 Used **Plotly** for interactive, publication-quality visualizations  
+
+---
+
+## 👨‍💻 What I Did
+
+- Cleaned and transformed subscription data into time series format  
+- Visualized subscriber growth using **Plotly** and **Matplotlib**  
+- Conducted time series diagnostics: stationarity, ACF, PACF, differencing  
+- Built and evaluated ARIMA model with optimized hyperparameters  
+- Predicted future subscription counts and visualized with overlaid graphs  
+- Shared the results on **LinkedIn** to highlight the real-world value of data forecasting  
+
+---
+
+## ✅ Key Features
+
+- 🕒 Time Series Forecasting using ARIMA  
+- 📅 Quarterly and Yearly Growth Rate Calculations  
+- 📉 Trend Analysis using Differencing  
+- 📊 Interactive Plotly visualizations with subscriber overlays  
+- 📦 End-to-end pipeline: data cleaning → modeling → forecasting → visualization  
+- 🔍 Insightful exploration of non-seasonal trends in subscriber data  
+
+---
+
+## 📁 Files Included
+
+- `netflix_subscriptions.csv` – Raw data of quarterly subscription counts  
+- `netflix_forecast.ipynb` – Jupyter notebook with full EDA, model building & predictions  
+- `README.md` – Documentation and explanation of project  
+- `plots/` – Visual outputs (growth rate, predictions, etc.)
+
+---
+
+## 🛠️ Tools & Tech Used
+
+- Python  
+- Jupyter Notebook  
+- Pandas, NumPy – Data analysis and manipulation  
+- Plotly, Matplotlib – Visualizations  
+- Statsmodels – ARIMA model  
+- Scikit-learn – Metrics and support tools  
+- Git & GitHub – Version control  
+
+---
+
+## 📈 Use Cases
+
+- 🔮 Subscription growth planning for streaming platforms  
+- 🎯 Budget and marketing forecast alignment  
+- 📆 Quarterly trend analysis for leadership dashboards  
+- 🔍 Subscriber engagement planning  
+- 💡 Use-case simulation for academic or business forecasting  
+
+---
+
+## 🎥 Project Preview
+
+<h3 align="center">📊 Netflix Subscriptions Forecasting</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/mayuresh-harihar_data-science-time-series-analysis-machinelearning-activity-7155634557462128640-bWiY/" target="_blank">
+    <img src="https://img.youtube.com/vi/lHt5LKJVODk/0.jpg" width="70%" alt="Click to View Project Summary on LinkedIn">
+  </a>
+</p>
+
+---
+
+## 🙌 Acknowledgments
+
+- Inspired by a time series forecasting article by **Aman Kharwal**  
+- Dataset sourced from a publicly available growth record of Netflix subscribers  
+- Shared on **LinkedIn** to inspire real-world learning and feedback  
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+
+
 # NETFLIX Subscriptions Forecasting (Time Series Analysis)
 
 ![1_ty4NvNrGg4ReETxqU2N3Og](https://github.com/hariharmayuresh/Data-Science-Data-Analysis-ML-Projects/assets/103446113/a6492b57-a882-4aeb-9021-cb6e2170975c)
