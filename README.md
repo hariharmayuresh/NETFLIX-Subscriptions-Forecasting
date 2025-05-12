@@ -95,12 +95,6 @@ This project was independently conceptualized and built to sharpen my skills in 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
 
 
 # NETFLIX Subscriptions Forecasting (Time Series Analysis)
